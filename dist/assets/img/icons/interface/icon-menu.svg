@@ -1,5 +1,11 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 12H21" stroke="#2C3038" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M3 6H21" stroke="#2C3038" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M3 18H21" stroke="#2C3038" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="7px" viewBox="0 0 21 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Menu</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="Avenir-Heavy, Avenir" font-size="8" font-weight="600">
+        <text id="Menu" fill="#2B3039">
+            <tspan x="0" y="6">Menu</tspan>
+        </text>
+    </g>
 </svg>
