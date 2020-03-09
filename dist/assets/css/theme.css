@@ -7851,19 +7851,19 @@ body[data-dropdown-grid-hover="true"] [data-dropdown-content]:not(.container) + 
   background-image: url("data:image/svg+xml,%3csvg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M20 6L9 17L4 12' stroke='%23009b72' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3e%3c/svg%3e"); }
 
 footer {
-  padding: 3.75rem 0; }
+  padding: 2rem 0; }
 
 @media (min-width: 768px) {
   footer {
-    padding: 6rem 0; } }
+    padding: 3rem 0; } }
 
 @media (min-width: 992px) {
   footer {
-    padding: 7.5rem 0; } }
+    padding: 3.5rem 0; } }
 
 @media (min-width: 768px) {
   .footer-1 hr {
-    margin-top: 6rem; } }
+    margin-top: 3rem; } }
 
 .icon {
   flex-shrink: 0;
