@@ -6,3 +6,26 @@
 /*  in your page by adding a reference to assets/css/custom.css in the head of each page.
 /*
 */
+
+.new-link {
+    font-weight: 600;
+    border-bottom: 2px solid #0bbcd6;
+    color: #0b0c0c;
+    text-decoration: none;
+    -webkit-transition: .3s all ease;
+    -o-transition: .3s all ease;
+    transition: .3s all ease; }
+
+.new-link:hover {
+    color: #6c6d6d;
+    border-bottom-color: #1fde91;
+    text-decoration: none; }
+
+.new-link:focus, .test.focus {
+    
+    text-decoration: none;
+    box-shadow: none; }
+
+.new-link:disabled, .test.disabled {
+    color: #6c757d;
+    pointer-events: none; }
