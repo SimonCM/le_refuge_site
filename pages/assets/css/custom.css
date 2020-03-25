@@ -29,3 +29,17 @@
 .new-link:disabled, .test.disabled {
     color: #6c757d;
     pointer-events: none; }
+
+.article-body {
+  margin: 0;
+  font-family: "Nunito", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 1.1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #555A64;
+  text-align: left;
+  background-color: #fff; }
+
+.flickity-prev-next-button {
+ color: #17a2b8;
+}
