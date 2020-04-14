@@ -3,3 +3,36 @@
 // user.scss
 //
 // Place your own custom CSS or SCSS rules below this line, these rules will override any Bootstrap and theme variables.
+
+.new-link {
+    font-weight: 600;
+    border-bottom: 2px solid #0bbcd6;
+    color: #0b0c0c;
+    text-decoration: none;
+    -webkit-transition: .3s all ease;
+    -o-transition: .3s all ease;
+    transition: .3s all ease; }
+
+.new-link:hover {
+    color: #6c6d6d;
+    border-bottom-color: #1fde91;
+    text-decoration: none; }
+
+.new-link:focus, .test.focus {
+    
+    text-decoration: none;
+    box-shadow: none; }
+
+.new-link:disabled, .test.disabled {
+    color: #6c757d;
+    pointer-events: none; }
+
+.article-body {
+  margin: 0;
+  font-family: "Nunito", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 1.1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #555A64;
+  text-align: left;
+  background-color: #fff; }
